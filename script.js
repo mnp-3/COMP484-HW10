@@ -15,7 +15,7 @@ $(function() { // Makes sure that your function is called once all the DOM eleme
   })
   
     // Add a variable "pet_info" equal to a object with the name (string), weight (number), and happiness (number) of your pet
-    var pet_info = {name:"Pumba", weight:18, happiness:80, energy:60};
+    var pet_info = {name:"Pumba", weight:"18", happiness:80, energy:60};
   
     function clickedTreatButton() {
       document.getElementById("burp-sound").play();
