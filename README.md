@@ -1,1 +1,1 @@
-https://mnp-3.github.io/comp484-project2/
+assets\HW EXAMPLES AND DESC.pdf
